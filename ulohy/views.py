@@ -6,7 +6,7 @@ def ahoj(request):
 
 def o_mne(request):
     kontext = {
-        "meno": "Jozef",
+        "meno": "Jozef T",
         "vek":18,
         "zaluby":['hudba', 'pivo', 'programovanie']
     }
